@@ -14,7 +14,7 @@ pipeline {
             steps {
                 git branch: 'main',
                     credentialsId: 'github-creds',
-                    url: 'https://github.com/mrbhupendra1/fsl-devops-challenge01.git'
+                    url: 'https://github.com/rajamaraka446/fsl-challenge-repo.git'
             }
         }
 
